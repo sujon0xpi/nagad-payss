@@ -16,7 +16,7 @@ Welcome to the **Nagad Payment Screenshot Creator**! This tool allows users to c
    - Input **Recipient Details** and other custom options
 3. **Generate & Download**:
    - After customizing, click on the **Download** button to save your screenshot.
-4. **Need Help?**: Watch the [Tutorial Video](https://youtu.be/Ilr_q-KjUSg?si=8ABEQZu-DnNF19Iu) for a step-by-step guide.
+4. **Need Help?**: Watch the [Tutorial Video](https://youtu.be/Vxd86N5y8JA?si=r4zbhZ_OVv1r519o) for a step-by-step guide.
 
 ## Features 🛠️
 
